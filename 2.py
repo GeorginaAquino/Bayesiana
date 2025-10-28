@@ -392,7 +392,6 @@ def main():
     
     # Título principal
     st.title("📊 Inferencia Paramétrica vs No Paramétrica")
-    st.markdown("### Análisis Comparativo con Programación Orientada a Objetos")
     st.markdown("---")
     
     # Inicializar analizador
@@ -737,3 +736,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
