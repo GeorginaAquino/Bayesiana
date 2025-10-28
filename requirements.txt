@@ -1,4 +1,5 @@
 streamlit
 plotly
+faker
 pandas
 numpy
